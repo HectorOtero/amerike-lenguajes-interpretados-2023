@@ -2,7 +2,7 @@
 
 Soy Hector Otero
 
-Tengo 19 años y estudio en Amerike. Revivan a Juan Gabriel
+Tengo 19 años y estudio en Amerike. Revivan a Juan Gabriel.
 
 - [cdmx2292@amerike.edu.mx](cdmx2292@amerike.edu.mx)
 - [_GitHub/HectorOtero_](https://github.com/HectorOtero)
